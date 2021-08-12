@@ -1,0 +1,19 @@
+p::first-letter{
+    font-size: 30px;
+    color: purple;
+}
+
+a:link{
+    color:darkgreen;
+
+}
+a:hover{
+    background-color: yellow;
+
+}
+a.vis:visited {
+    color: brown;
+}
+a:active{
+    color: blue;
+}
